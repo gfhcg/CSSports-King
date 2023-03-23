@@ -1,0 +1,1 @@
+<view>" sub-title=" " extra="开始" :thumbnail="signIn" @click="goToSingIn"><text class="uni-body">在此每日训练签到</text></view>

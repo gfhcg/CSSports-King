@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "计院体育君",
+  "usingComponents": {
+    "uni-swiper-dot": "/node-modules/@dcloudio/uni-ui/lib/uni-swiper-dot/uni-swiper-dot",
+    "uni-section": "/node-modules/@dcloudio/uni-ui/lib/uni-section/uni-section",
+    "uni-easyinput": "/node-modules/@dcloudio/uni-ui/lib/uni-easyinput/uni-easyinput"
+  }
+}

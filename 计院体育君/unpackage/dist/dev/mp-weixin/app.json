@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/signIn/signIn",
+    "pages/addAthletes/addAthletes",
+    "pages/test/test",
+    "pages/allAthletes/allAthletes",
+    "pages/signInRecord/signInRecord",
+    "pages/logIn/logIn",
+    "pages/signInPeople/signInPeople",
+    "pages/publicNotice/publicNotice"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "ignoreDevUnusedFiles": false,
+  "ignoreUploadUnusedFiles": false,
+  "usingComponents": {
+    "w-loading": "/components/w-loading/w-loading"
+  }
+}

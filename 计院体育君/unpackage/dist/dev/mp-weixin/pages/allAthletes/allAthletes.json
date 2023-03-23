@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "运动员",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-indexed-list": "/node-modules/@dcloudio/uni-ui/lib/uni-indexed-list/uni-indexed-list",
+    "w-loading": "/components/w-loading/w-loading"
+  }
+}

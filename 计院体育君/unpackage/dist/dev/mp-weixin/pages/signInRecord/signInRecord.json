@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "签到记录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-section": "/node-modules/@dcloudio/uni-ui/lib/uni-section/uni-section",
+    "uni-calendar": "/node-modules/@dcloudio/uni-ui/lib/uni-calendar/uni-calendar",
+    "uni-list": "/node-modules/@dcloudio/uni-ui/lib/uni-list/uni-list",
+    "uni-list-item": "/node-modules/@dcloudio/uni-ui/lib/uni-list-item/uni-list-item"
+  }
+}

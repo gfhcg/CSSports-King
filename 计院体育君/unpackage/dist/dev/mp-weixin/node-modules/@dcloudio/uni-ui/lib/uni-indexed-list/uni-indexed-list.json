@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "indexed-list-item": "/node-modules/@dcloudio/uni-ui/lib/uni-indexed-list/uni-indexed-list-item"
+  }
+}

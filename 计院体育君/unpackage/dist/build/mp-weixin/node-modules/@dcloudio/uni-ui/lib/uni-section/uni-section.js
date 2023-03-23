@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["node-modules/@dcloudio/uni-ui/lib/uni-section/uni-section"],{"07dc":function(t,n,e){"use strict";e.d(n,"b",(function(){return i})),e.d(n,"c",(function(){return u})),e.d(n,"a",(function(){}));var i=function(){var t=this.$createElement;this._self._c},u=[]},"281a":function(t,n,e){"use strict";e.r(n);var i=e("07dc"),u=e("3cda");for(var d in u)["default"].indexOf(d)<0&&function(t){e.d(n,t,(function(){return u[t]}))}(d);e("731c");var o=e("f0c5"),a=Object(o["a"])(u["default"],i["b"],i["c"],!1,null,null,null,!1,i["a"],void 0);n["default"]=a.exports},"3cda":function(t,n,e){"use strict";e.r(n);var i=e("d8a7"),u=e.n(i);for(var d in i)["default"].indexOf(d)<0&&function(t){e.d(n,t,(function(){return i[t]}))}(d);n["default"]=u.a},"731c":function(t,n,e){"use strict";var i=e("db98"),u=e.n(i);u.a},d8a7:function(t,n,e){"use strict";(function(t){Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var e={name:"UniSection",emits:["click"],props:{type:{type:String,default:""},title:{type:String,required:!0,default:""},titleFontSize:{type:String,default:"14px"},titleColor:{type:String,default:"#333"},subTitle:{type:String,default:""},subTitleFontSize:{type:String,default:"12px"},subTitleColor:{type:String,default:"#999"},padding:{type:[Boolean,String],default:!1}},computed:{_padding:function(){return"string"===typeof this.padding?this.padding:this.padding?"10px":""}},watch:{title:function(n){t.report&&""!==n&&t.report("title",n)}},methods:{onClick:function(){this.$emit("click")}}};n.default=e}).call(this,e("543d")["default"])},db98:function(t,n,e){}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'node-modules/@dcloudio/uni-ui/lib/uni-section/uni-section-create-component',
+    {
+        'node-modules/@dcloudio/uni-ui/lib/uni-section/uni-section-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("281a"))
+        })
+    },
+    [['node-modules/@dcloudio/uni-ui/lib/uni-section/uni-section-create-component']]
+]);
